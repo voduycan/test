@@ -1,1 +1,2 @@
-let a = 1;
+let a = 3;
+let c = 3
